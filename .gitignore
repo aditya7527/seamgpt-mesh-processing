@@ -27,7 +27,9 @@ wheels/
 .ipynb_checkpoints
 
 # Outputs (keep structure but ignore generated files)
-outputs/
+outputs/*
+!outputs/.gitkeep
+!outputs/README.md
 *.obj
 *.ply
 *.stl
