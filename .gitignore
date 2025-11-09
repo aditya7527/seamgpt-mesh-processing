@@ -30,6 +30,14 @@ wheels/
 outputs/*
 !outputs/.gitkeep
 !outputs/README.md
+
+# Examples folder (tracked for documentation)
+!examples/
+examples/*.obj
+examples/*.ply
+examples/*.stl
+
+# Other mesh files
 *.obj
 *.ply
 *.stl
