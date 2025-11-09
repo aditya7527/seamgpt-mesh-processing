@@ -1,6 +1,6 @@
 # Mesh Normalization, Quantization, and Error Analysis Report
 
-**Student Name:** [Your Name]  
+**Student Name:** [Aditya Bhushan]  
 **Date:** 2025-11-09  
 **Assignment:** SeamGPT Data Processing - Mesh Normalization, Quantization, and Error Analysis
 
